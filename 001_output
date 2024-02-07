@@ -1,0 +1,65 @@
+File Iriss-J-Gvecg-P580002.exb.xml: names are not unique, there are 12 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P580002.t64.w0', 'Artur-J-Gvecg-P580002.t64.w1', 'Artur-J-Gvecg-P580002.t64.w2', 'Artur-J-Gvecg-P580002.t64.w3']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P580002.t64.w3 to Artur-J-Gvecg-P580002.t64.w4
+ 		 from Artur-J-Gvecg-P580002.t64.w3 to Artur-J-Gvecg-P580002.t64.w4
+ 		 from Artur-J-Gvecg-P580002.t64.w3 to Artur-J-Gvecg-P580002.t64.w4
+ 		 from Artur-J-Gvecg-P580002.t64.w4 to Artur-J-Gvecg-P580002.t64.w5
+ 		 from Artur-J-Gvecg-P580002.t64.w5 to Artur-J-Gvecg-P580002.t64.w6
+ 		 from Artur-J-Gvecg-P580002.t64.w6 to Artur-J-Gvecg-P580002.t64.w7
+ 		 from Artur-J-Gvecg-P580002.t64.w7 to Artur-J-Gvecg-P580002.t64.w8
+ 		 from Artur-J-Gvecg-P580002.t64.w3 to Artur-J-Gvecg-P580002.t64.w4
+ 		 from Artur-J-Gvecg-P580002.t64.w4 to Artur-J-Gvecg-P580002.t64.w5
+ 		 from Artur-J-Gvecg-P580002.t64.w5 to Artur-J-Gvecg-P580002.t64.w6
+ 		 from Artur-J-Gvecg-P580002.t64.w6 to Artur-J-Gvecg-P580002.t64.w7
+ 		 from Artur-J-Gvecg-P580002.t64.w7 to Artur-J-Gvecg-P580002.t64.w8
+
+File Iriss-J-Gvecg-P580003.exb.xml: names are not unique, there are 8 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P580003.t70.w0', 'Artur-J-Gvecg-P580003.t70.w1']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P580003.t70.w0 to Artur-J-Gvecg-P580003.t70.w0
+ 		 from Artur-J-Gvecg-P580003.t70.w1 to Artur-J-Gvecg-P580003.t70.w2
+ 		 from Artur-J-Gvecg-P580003.t70.w0 to Artur-J-Gvecg-P580003.t70.w0
+ 		 from Artur-J-Gvecg-P580003.t70.w1 to Artur-J-Gvecg-P580003.t70.w2
+ 		 from Artur-J-Gvecg-P580003.t70.w0 to Artur-J-Gvecg-P580003.t70.w0
+ 		 from Artur-J-Gvecg-P580003.t70.w1 to Artur-J-Gvecg-P580003.t70.w2
+ 		 from Artur-J-Gvecg-P580003.t70.w0 to Artur-J-Gvecg-P580003.t70.w0
+ 		 from Artur-J-Gvecg-P580003.t70.w1 to Artur-J-Gvecg-P580003.t70.w2
+
+File Iriss-J-Gvecg-P500026.exb.xml: names are not unique, there are 4 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P500026.t330.w0', 'Artur-J-Gvecg-P500026.t330.w1']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P500026.t330.w1 to Artur-J-Gvecg-P500026.t330.w0
+ 		 from Artur-J-Gvecg-P500026.t330.w1 to Artur-J-Gvecg-P500026.t330.w0
+ 		 from Artur-J-Gvecg-P500026.t330.w1 to Artur-J-Gvecg-P500026.t330.w0
+ 		 from Artur-J-Gvecg-P500026.t330.w1 to Artur-J-Gvecg-P500026.t330.w0
+
+File Iriss-J-Gvecg-P580009.exb.xml: names are not unique, there are 8 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P580009.t35.w0', 'Artur-J-Gvecg-P580009.t35.w1', 'Artur-J-Gvecg-P580009.t35.w2', 'Artur-J-Gvecg-P580009.t35.w3']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P580009.t35.w0 to Artur-J-Gvecg-P580009.t35.w0
+ 		 from Artur-J-Gvecg-P580009.t35.w3 to Artur-J-Gvecg-P580009.t35.w1
+ 		 from Artur-J-Gvecg-P580009.t35.w0 to Artur-J-Gvecg-P580009.t35.w0
+ 		 from Artur-J-Gvecg-P580009.t35.w3 to Artur-J-Gvecg-P580009.t35.w1
+ 		 from Artur-J-Gvecg-P580009.t35.w0 to Artur-J-Gvecg-P580009.t35.w0
+ 		 from Artur-J-Gvecg-P580009.t35.w3 to Artur-J-Gvecg-P580009.t35.w1
+ 		 from Artur-J-Gvecg-P580009.t35.w0 to Artur-J-Gvecg-P580009.t35.w0
+ 		 from Artur-J-Gvecg-P580009.t35.w3 to Artur-J-Gvecg-P580009.t35.w1
+
+File Iriss-J-Gvecg-P580047.exb.xml: names are not unique, there are 4 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P580047.t30.w0']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P580047.t30.w0 to Artur-J-Gvecg-P580047.t30.w0
+ 		 from Artur-J-Gvecg-P580047.t30.w0 to Artur-J-Gvecg-P580047.t30.w0
+ 		 from Artur-J-Gvecg-P580047.t30.w0 to Artur-J-Gvecg-P580047.t30.w0
+ 		 from Artur-J-Gvecg-P580047.t30.w0 to Artur-J-Gvecg-P580047.t30.w0
+
+File Iriss-J-Gvecg-P580023.exb.xml: names are not unique, there are 4 events with nonpositive duration.
+	Check following tlis: ['Artur-J-Gvecg-P580023.t117.w0']
+	Fishy events:
+ 		 from Artur-J-Gvecg-P580023.t117.w0 to Artur-J-Gvecg-P580023.t117.w0
+ 		 from Artur-J-Gvecg-P580023.t117.w0 to Artur-J-Gvecg-P580023.t117.w0
+ 		 from Artur-J-Gvecg-P580023.t117.w0 to Artur-J-Gvecg-P580023.t117.w0
+ 		 from Artur-J-Gvecg-P580023.t117.w0 to Artur-J-Gvecg-P580023.t117.w0
+
+Total bugged files: 6.
