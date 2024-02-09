@@ -290,16 +290,16 @@
 			<tli id="Artur-J-Gvecg-P580009.t34.w3" time="111.186"/>
 			<tli id="Artur-J-Gvecg-P580009.t35" time="111.586"/>
 			<tli id="Artur-J-Gvecg-P580009.t35.w0" time="111.586"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w0" time="111.586"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w1" time="111.586"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w2" time="111.586"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w3" time="111.586"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w1" time="112.146"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w2" time="112.306"/>
-			<tli id="Artur-J-Gvecg-P580009.t35.w3" time="112.756"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.w1" time="111.86638799393275"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.w2" time="112.17972054671672"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.w3" time="112.79305235216617"/>
 			<tli id="Artur-J-Gvecg-P580009.t35.w4" time="113.126"/>
 			<tli id="Artur-J-Gvecg-P580009.t35.w5" time="113.446"/>
 			<tli id="Artur-J-Gvecg-P580009.t35.w6" time="113.856"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.wx0" time="111.586"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.wx1" time="111.8"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.wx2" time="112.4"/>
+			<tli id="Artur-J-Gvecg-P580009.t35.wx3" time="113.0"/>
 			<tli id="Artur-J-Gvecg-P580009.t36" time="114.760"/>
 			<tli id="Artur-J-Gvecg-P580009.t36.w0" time="114.790"/>
 			<tli id="Artur-J-Gvecg-P580009.t36.w1" time="115.170"/>
@@ -1066,10 +1066,10 @@
 			<event start="Artur-J-Gvecg-P580009.t34.w1" end="Artur-J-Gvecg-P580009.t34.w2">pet</event>
 			<event start="Artur-J-Gvecg-P580009.t34.w2" end="Artur-J-Gvecg-P580009.t34.w3">se</event>
 			<event start="Artur-J-Gvecg-P580009.t34.w3" end="Artur-J-Gvecg-P580009.t35">reče</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w0">ali</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w1" end="Artur-J-Gvecg-P580009.t35.w2">je</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w2" end="Artur-J-Gvecg-P580009.t35.w3">rimska</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w3" end="Artur-J-Gvecg-P580009.t35.w1">pet</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx0" end="Artur-J-Gvecg-P580009.t35.wx1">ali</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx1" end="Artur-J-Gvecg-P580009.t35.wx2">je</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx2" end="Artur-J-Gvecg-P580009.t35.wx3">rimska</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx3" end="Artur-J-Gvecg-P580009.t36.w1">pet</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w0" end="Artur-J-Gvecg-P580009.t53.w1">novinar</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w1" end="Artur-J-Gvecg-P580009.t53.w2">Brane</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w2" end="Artur-J-Gvecg-P580009.t53.w3">Piano</event>
@@ -1264,10 +1264,10 @@
 			<event start="Artur-J-Gvecg-P580009.t34.w1" end="Artur-J-Gvecg-P580009.t34.w2">pet</event>
 			<event start="Artur-J-Gvecg-P580009.t34.w2" end="Artur-J-Gvecg-P580009.t34.w3">se</event>
 			<event start="Artur-J-Gvecg-P580009.t34.w3" end="Artur-J-Gvecg-P580009.t35">reče</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w0">ali</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w1" end="Artur-J-Gvecg-P580009.t35.w2">je</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w2" end="Artur-J-Gvecg-P580009.t35.w3">rimska</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w3" end="Artur-J-Gvecg-P580009.t35.w1">pet</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx0" end="Artur-J-Gvecg-P580009.t35.wx1">ali</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx1" end="Artur-J-Gvecg-P580009.t35.wx2">je</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx2" end="Artur-J-Gvecg-P580009.t35.wx3">rimska</event>
+			<event start="Artur-J-Gvecg-P580009.t35.wx3" end="Artur-J-Gvecg-P580009.t36.w1">pet</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w0" end="Artur-J-Gvecg-P580009.t53.w1">novinar</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w1" end="Artur-J-Gvecg-P580009.t53.w2">Brane</event>
 			<event start="Artur-J-Gvecg-P580009.t53.w2" end="Artur-J-Gvecg-P580009.t53.w3">Piano</event>
@@ -1439,7 +1439,7 @@
 			<event start="Artur-J-Gvecg-P580009.t28.w6" end="Artur-J-Gvecg-P580009.t28.w7">kasneje</event>
 			<event start="Artur-J-Gvecg-P580009.t28.w7" end="Artur-J-Gvecg-P580009.t28.w8">kej</event>
 			<event start="Artur-J-Gvecg-P580009.t28.w8" end="Artur-J-Gvecg-P580009.t29">razložu</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w0">tako</event>
+			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w1">tako</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w1" end="Artur-J-Gvecg-P580009.t35.w2">ja</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w2" end="Artur-J-Gvecg-P580009.t35.w3">rimska</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w3" end="Artur-J-Gvecg-P580009.t35.w1">pet</event>
@@ -2071,7 +2071,7 @@
 			<event start="Artur-J-Gvecg-P580009.t28.w6" end="Artur-J-Gvecg-P580009.t28.w7">kasneje</event>
 			<event start="Artur-J-Gvecg-P580009.t28.w7" end="Artur-J-Gvecg-P580009.t28.w8">kaj</event>
 			<event start="Artur-J-Gvecg-P580009.t28.w8" end="Artur-J-Gvecg-P580009.t29">razložil</event>
-			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w0">tako</event>
+			<event start="Artur-J-Gvecg-P580009.t35.w0" end="Artur-J-Gvecg-P580009.t35.w1">tako</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w1" end="Artur-J-Gvecg-P580009.t35.w2">ja</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w2" end="Artur-J-Gvecg-P580009.t35.w3">rimska</event>
 			<event start="Artur-J-Gvecg-P580009.t35.w3" end="Artur-J-Gvecg-P580009.t35.w1">pet</event>
