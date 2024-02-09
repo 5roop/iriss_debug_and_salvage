@@ -979,6 +979,7 @@
       <tli id="Artur-J-Gvecg-P580023.t116.w9" time="352.661"/>
       <tli id="Artur-J-Gvecg-P580023.t117" time="353.05953512157424"/>
       <tli id="Artur-J-Gvecg-P580023.t117.w0" time="353.259"/>
+      <tli id="Artur-J-Gvecg-P580023.t117.wx0" time="353.8"/>
       <tli id="Artur-J-Gvecg-P580023.t117.w1" time="353.469"/>
       <tli id="Artur-J-Gvecg-P580023.t117.w2" time="353.839"/>
       <tli id="Artur-J-Gvecg-P580023.t117.w3" time="353.989"/>
@@ -2296,7 +2297,7 @@
       <event start="Artur-J-Gvecg-P580023.t114.w0" end="Artur-J-Gvecg-P580023.t114.w1">je</event>
       <event start="Artur-J-Gvecg-P580023.t114.w1" end="Artur-J-Gvecg-P580023.t115">kər</event>
       <event start="Artur-J-Gvecg-P580023.t115.w0" end="Artur-J-Gvecg-P580023.t116">fajn</event>
-      <event start="Artur-J-Gvecg-P580023.t117.w0" end="Artur-J-Gvecg-P580023.t118.w0">Ja</event>
+      <event start="Artur-J-Gvecg-P580023.t117.wx0" end="Artur-J-Gvecg-P580023.t118.w0">Ja</event>
       <event start="Artur-J-Gvecg-P580023.t118.w0" end="Artur-J-Gvecg-P580023.t118.w1">fsako</event>
       <event start="Artur-J-Gvecg-P580023.t118.w1" end="Artur-J-Gvecg-P580023.t119">leto</event>
       <event start="Artur-J-Gvecg-P580023.t119.w0" end="Artur-J-Gvecg-P580023.t119.w1">že</event>
@@ -2962,7 +2963,7 @@
       <event start="Artur-J-Gvecg-P580023.t114.w0" end="Artur-J-Gvecg-P580023.t114.w1">je</event>
       <event start="Artur-J-Gvecg-P580023.t114.w1" end="Artur-J-Gvecg-P580023.t115">kar</event>
       <event start="Artur-J-Gvecg-P580023.t115.w0" end="Artur-J-Gvecg-P580023.t116">fajn</event>
-      <event start="Artur-J-Gvecg-P580023.t117.w0" end="Artur-J-Gvecg-P580023.t118.w0">Ja</event>
+      <event start="Artur-J-Gvecg-P580023.t117.wx0" end="Artur-J-Gvecg-P580023.t118.w0">Ja</event>
       <event start="Artur-J-Gvecg-P580023.t118.w0" end="Artur-J-Gvecg-P580023.t118.w1">vsako</event>
       <event start="Artur-J-Gvecg-P580023.t118.w1" end="Artur-J-Gvecg-P580023.t119">leto</event>
       <event start="Artur-J-Gvecg-P580023.t119.w0" end="Artur-J-Gvecg-P580023.t119.w1">že</event>
