@@ -2688,7 +2688,7 @@
 			<event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">eee</event>
 			<event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">ukrepov</event>
 			<event start="Artur-J-Gvecg-P500026.t330.wx0" end="Artur-J-Gvecg-P500026.t330.wx1">gospa</event>
-			<event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331.w0">Vidmar</event>
+			<event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331">Vidmar</event>
 		</tier>
 		<tier id="11" category="v" speaker="Artur-J-G3057" type="t" display-name="Artur-J-G3057">
 			<event start="Artur-J-Gvecg-P500026.t262.w0" end="Artur-J-Gvecg-P500026.t263">e</event>
@@ -2757,7 +2757,7 @@
 			<event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">eee</event>
 			<event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">ukrepov</event>
 			<event start="Artur-J-Gvecg-P500026.t330.wx0" end="Artur-J-Gvecg-P500026.t330.wx1">gospa</event>
-			<event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331.w0">Vidmar</event>
+			<event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331">Vidmar</event>
 		</tier>
 		<tier id="12" category="additional" speaker="Artur-J-G3057" type="t" display-name="Artur-J-G3057 [additional]"/>
 		<tier id="13" category="disfluencyType" speaker="Artur-J-G3057" type="a" display-name="Artur-J-G3057 [disfluencyType]"/>

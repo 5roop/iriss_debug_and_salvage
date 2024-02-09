@@ -985,6 +985,8 @@
       <tli id="Artur-J-Gvecg-P500026.t330" time="693.6328384133033"/>
       <tli id="Artur-J-Gvecg-P500026.t330.wx0" time="694.7"/>
       <tli id="Artur-J-Gvecg-P500026.t330.wx1" time="695.0"/>
+      <tli id="Artur-J-Gvecg-P500026.t330.w0" time="694.671"/>
+      <tli id="Artur-J-Gvecg-P500026.t330.w1" time="695.391"/>
       <tli id="Artur-J-Gvecg-P500026.t330.w2" time="695.0465950619778"/>
       <tli id="Artur-J-Gvecg-P500026.t331" time="696.2624661666443"/>
       <tli id="Artur-J-Gvecg-P500026.t331.w0" time="696.529"/>
@@ -2578,7 +2580,7 @@
     </tier>
     <tier id="5" speaker="Artur-J-G3055" category="v" type="t" display-name="Artur-J-G3055">
       <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">Če</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w0">se</event>
+      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w2">se</event>
       <event start="Artur-J-Gvecg-P500026.t330.w2" end="Artur-J-Gvecg-P500026.t331">smem</event>
       <event start="Artur-J-Gvecg-P500026.t331.w0" end="Artur-J-Gvecg-P500026.t331.w1">Ja</event>
       <event start="Artur-J-Gvecg-P500026.t331.w1" end="Artur-J-Gvecg-P500026.t331.w2">če</event>
