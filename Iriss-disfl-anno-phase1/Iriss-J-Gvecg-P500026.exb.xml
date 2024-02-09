@@ -19,7 +19,7 @@
         <l1/>
         <l2/>
         <ud-speaker-information>
-</ud-speaker-information>
+        </ud-speaker-information>
         <comment/>
       </speaker>
       <speaker id="Artur-J-G3055">
@@ -29,7 +29,7 @@
         <l1/>
         <l2/>
         <ud-speaker-information>
-</ud-speaker-information>
+        </ud-speaker-information>
         <comment/>
       </speaker>
       <speaker id="Artur-J-G3057">
@@ -39,7 +39,7 @@
         <l1/>
         <l2/>
         <ud-speaker-information>
-</ud-speaker-information>
+        </ud-speaker-information>
         <comment/>
       </speaker>
     </speakertable>
@@ -983,8 +983,8 @@
       <tli id="Artur-J-Gvecg-P500026.t329.w6" time="692.363"/>
       <tli id="Artur-J-Gvecg-P500026.t329.w7" time="693.123"/>
       <tli id="Artur-J-Gvecg-P500026.t330" time="693.6328384133033"/>
-      <tli id="Artur-J-Gvecg-P500026.t330.w0" time="694.601"/>
-      <tli id="Artur-J-Gvecg-P500026.t330.w1" time="694.601"/>
+      <tli id="Artur-J-Gvecg-P500026.t330.wx0" time="694.7"/>
+      <tli id="Artur-J-Gvecg-P500026.t330.wx1" time="695.0"/>
       <tli id="Artur-J-Gvecg-P500026.t330.w2" time="695.0465950619778"/>
       <tli id="Artur-J-Gvecg-P500026.t331" time="696.2624661666443"/>
       <tli id="Artur-J-Gvecg-P500026.t331.w0" time="696.529"/>
@@ -2665,7 +2665,7 @@
     </tier>
     <tier id="6" speaker="Artur-J-G3055" category="v" type="t" display-name="Artur-J-G3055">
       <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">Če</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w0">se</event>
+      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w2">se</event>
       <event start="Artur-J-Gvecg-P500026.t330.w2" end="Artur-J-Gvecg-P500026.t331">smem</event>
       <event start="Artur-J-Gvecg-P500026.t331.w0" end="Artur-J-Gvecg-P500026.t331.w1">Ja</event>
       <event start="Artur-J-Gvecg-P500026.t331.w1" end="Artur-J-Gvecg-P500026.t331.w2">če</event>
@@ -2835,8 +2835,8 @@
       <event start="Artur-J-Gvecg-P500026.t311.w1" end="Artur-J-Gvecg-P500026.t312">teh</event>
       <event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">eee</event>
       <event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">ukrepov</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">gospa</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w0">Vidmar</event>
+      <event start="Artur-J-Gvecg-P500026.t330.wx0" end="Artur-J-Gvecg-P500026.t330.wx1">gospa</event>
+      <event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331.w0">Vidmar</event>
     </tier>
     <tier id="11" speaker="Artur-J-G3057" category="v" type="t" display-name="Artur-J-G3057">
       <event start="Artur-J-Gvecg-P500026.t262.w0" end="Artur-J-Gvecg-P500026.t263">e</event>
@@ -2904,8 +2904,8 @@
       <event start="Artur-J-Gvecg-P500026.t311.w1" end="Artur-J-Gvecg-P500026.t312">teh</event>
       <event start="Artur-J-Gvecg-P500026.t312.w0" end="Artur-J-Gvecg-P500026.t312.w1">eee</event>
       <event start="Artur-J-Gvecg-P500026.t312.w1" end="Artur-J-Gvecg-P500026.t313">ukrepov</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">gospa</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w1" end="Artur-J-Gvecg-P500026.t330.w0">Vidmar</event>
+      <event start="Artur-J-Gvecg-P500026.t330.wx0" end="Artur-J-Gvecg-P500026.t330.wx1">gospa</event>
+      <event start="Artur-J-Gvecg-P500026.t330.wx1" end="Artur-J-Gvecg-P500026.t331.w0">Vidmar</event>
     </tier>
     <tier id="12" speaker="Artur-J-G3057" category="additional" type="d" display-name="Artur-J-G3057 [additional]">
       <event start="Artur-J-Gvecg-P500026.t264.w0" end="Artur-J-Gvecg-P500026.t264.w1">pri(:)</event>
@@ -2929,7 +2929,7 @@
     <tier id="13" speaker="Artur-J-G3057" category="verbalDisfluency" type="a" display-name="Artur-J-G3057 [verbalDisfluency]">
       <event start="Artur-J-Gvecg-P500026.t264.w0" end="Artur-J-Gvecg-P500026.t266.w2">substitution</event>
       <event start="Artur-J-Gvecg-P500026.t266.w3" end="Artur-J-Gvecg-P500026.t268">insertion</event>
-      <event start="Artur-J-Gvecg-P500026.t330.w0" end="Artur-J-Gvecg-P500026.t330.w1">nonspecifiedDis</event>
+      <event start="Artur-J-Gvecg-P500026.t330.wx0" end="Artur-J-Gvecg-P500026.t330.wx1">nonspecifiedDis</event>
     </tier>
     <tier id="TIE2" speaker="Artur-J-G3057" category="disfluencyStructure" type="a" display-name="Artur-J-G3057 [disfluencyStructure]">
       <event start="Artur-J-Gvecg-P500026.t264.w0" end="Artur-J-Gvecg-P500026.t265.w1">reparandum</event>
