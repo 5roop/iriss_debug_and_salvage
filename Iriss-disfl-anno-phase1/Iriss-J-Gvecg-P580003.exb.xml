@@ -17,7 +17,7 @@
         <l1/>
         <l2/>
         <ud-speaker-information>
-</ud-speaker-information>
+        </ud-speaker-information>
         <comment/>
       </speaker>
       <speaker id="Artur-J-G4530">
@@ -27,7 +27,7 @@
         <l1/>
         <l2/>
         <ud-speaker-information>
-</ud-speaker-information>
+        </ud-speaker-information>
         <comment/>
       </speaker>
     </speakertable>
@@ -639,6 +639,9 @@
       <tli id="Artur-J-Gvecg-P580003.t69.w0" time="204.897"/>
       <tli id="Artur-J-Gvecg-P580003.t69.w1" time="205.497"/>
       <tli id="Artur-J-Gvecg-P580003.t70" time="206.131"/>
+      <tli id="Artur-J-Gvecg-P580003.t70.wx0" time="206.131"/>
+      <tli id="Artur-J-Gvecg-P580003.t70.wx1" time="206.5"/>
+      <tli id="Artur-J-Gvecg-P580003.t70.wx2" time="207.1"/>
       <tli id="Artur-J-Gvecg-P580003.t70.w0" time="206.131"/>
       <tli id="Artur-J-Gvecg-P580003.t70.w1" time="206.131"/>
       <tli id="Artur-J-Gvecg-P580003.t70.w2" time="206.131"/>
@@ -1951,9 +1954,9 @@
       <event start="Artur-J-Gvecg-P580003.t68.w13" end="Artur-J-Gvecg-P580003.t69">e</event>
       <event start="Artur-J-Gvecg-P580003.t69.w0" end="Artur-J-Gvecg-P580003.t69.w1">določene</event>
       <event start="Artur-J-Gvecg-P580003.t69.w1" end="Artur-J-Gvecg-P580003.t70">like</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w0" end="Artur-J-Gvecg-P580003.t70.w0">in</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w1" end="Artur-J-Gvecg-P580003.t70.w2">jih</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w2" end="Artur-J-Gvecg-P580003.t70.w1">izvajal</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx0" end="Artur-J-Gvecg-P580003.t70.wx0">in</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx1" end="Artur-J-Gvecg-P580003.t70.wx2">jih</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx2" end="Artur-J-Gvecg-P580003.t71.w0">izvajal</event>
       <event start="Artur-J-Gvecg-P580003.t71.w0" end="Artur-J-Gvecg-P580003.t71.w1">ti</event>
       <event start="Artur-J-Gvecg-P580003.t71.w1" end="Artur-J-Gvecg-P580003.t71.w2">si</event>
       <event start="Artur-J-Gvecg-P580003.t71.w2" end="Artur-J-Gvecg-P580003.t71.w3">moj</event>
@@ -2544,9 +2547,9 @@
       <event start="Artur-J-Gvecg-P580003.t68.w13" end="Artur-J-Gvecg-P580003.t69">e</event>
       <event start="Artur-J-Gvecg-P580003.t69.w0" end="Artur-J-Gvecg-P580003.t69.w1">določene</event>
       <event start="Artur-J-Gvecg-P580003.t69.w1" end="Artur-J-Gvecg-P580003.t70">like</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w0" end="Artur-J-Gvecg-P580003.t70.w0">in</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w1" end="Artur-J-Gvecg-P580003.t70.w2">jih</event>
-      <event start="Artur-J-Gvecg-P580003.t70.w2" end="Artur-J-Gvecg-P580003.t70.w1">izvajal</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx0" end="Artur-J-Gvecg-P580003.t70.wx0">in</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx1" end="Artur-J-Gvecg-P580003.t70.wx2">jih</event>
+      <event start="Artur-J-Gvecg-P580003.t70.wx2" end="Artur-J-Gvecg-P580003.t71.w0">izvajal</event>
       <event start="Artur-J-Gvecg-P580003.t71.w0" end="Artur-J-Gvecg-P580003.t71.w1">ti</event>
       <event start="Artur-J-Gvecg-P580003.t71.w1" end="Artur-J-Gvecg-P580003.t71.w2">si</event>
       <event start="Artur-J-Gvecg-P580003.t71.w2" end="Artur-J-Gvecg-P580003.t71.w3">moj</event>
