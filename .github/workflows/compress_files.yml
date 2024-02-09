@@ -1,0 +1,14 @@
+name: Compress Files
+
+on: [push]
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Compress files
+      run: |
+        zip -r iriss_with_w_and_pauses.zip iriss_with_w_and_pauses; zip -r Iriss-disfl-anno-phase1.zip Iriss-disfl-anno-phase1
