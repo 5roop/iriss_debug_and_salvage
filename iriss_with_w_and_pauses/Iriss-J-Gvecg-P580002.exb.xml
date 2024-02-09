@@ -773,15 +773,15 @@
 			<tli id="Artur-J-Gvecg-P580002.t63.w8" time="323.013"/>
 			<tli id="Artur-J-Gvecg-P580002.t63.w9" time="323.193"/>
 			<tli id="Artur-J-Gvecg-P580002.t64" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w0" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w1" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w2" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w3" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w4" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w5" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w6" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w7" time="323.765"/>
-			<tli id="Artur-J-Gvecg-P580002.t64.w8" time="323.765"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx0" time="323.765"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx1" time="323.9"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx2" time="324.0"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx3" time="324.2"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx4" time="324.6"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx5" time="324.8"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx6" time="325.0"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx7" time="325.4"/>
+			<tli id="Artur-J-Gvecg-P580002.t64.wx8" time="325.8"/>
 			<tli id="Artur-J-Gvecg-P580002.t64.w0" time="323.795"/>
 			<tli id="Artur-J-Gvecg-P580002.t64.w1" time="324.185"/>
 			<tli id="Artur-J-Gvecg-P580002.t64.w2" time="324.385"/>
@@ -2382,15 +2382,15 @@
 			<event start="Artur-J-Gvecg-P580002.t63.w7" end="Artur-J-Gvecg-P580002.t63.w8">na</event>
 			<event start="Artur-J-Gvecg-P580002.t63.w8" end="Artur-J-Gvecg-P580002.t63.w9">tem</event>
 			<event start="Artur-J-Gvecg-P580002.t63.w9" end="Artur-J-Gvecg-P580002.t64">nivoju</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w0" end="Artur-J-Gvecg-P580002.t64.w1">da</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w1" end="Artur-J-Gvecg-P580002.t64.w2">bi</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w2" end="Artur-J-Gvecg-P580002.t64.w3">lahko</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w3" end="Artur-J-Gvecg-P580002.t64.w4">rekli</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w4" end="Artur-J-Gvecg-P580002.t64.w5">da</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w5" end="Artur-J-Gvecg-P580002.t64.w6">lahko</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w6" end="Artur-J-Gvecg-P580002.t64.w7">vse</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w7" end="Artur-J-Gvecg-P580002.t64.w8">rešimo</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w8" end="Artur-J-Gvecg-P580002.t64.w0">tako</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx0" end="Artur-J-Gvecg-P580002.t64.wx1">da</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx1" end="Artur-J-Gvecg-P580002.t64.wx2">bi</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx2" end="Artur-J-Gvecg-P580002.t64.wx3">lahko</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx3" end="Artur-J-Gvecg-P580002.t64.wx4">rekli</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx4" end="Artur-J-Gvecg-P580002.t64.wx5">da</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx5" end="Artur-J-Gvecg-P580002.t64.wx6">lahko</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx6" end="Artur-J-Gvecg-P580002.t64.wx7">vse</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx7" end="Artur-J-Gvecg-P580002.t64.wx8">rešimo</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx8" end="Artur-J-Gvecg-P580002.t65.w0">tako</event>
 		</tier>
 		<tier id="6" category="v" speaker="Artur-J-G4529" type="t" display-name="Artur-J-G4529">
 			<event start="Artur-J-Gvecg-P580002.t0.w0" end="Artur-J-Gvecg-P580002.t0.w1">lepo</event>
@@ -2584,15 +2584,15 @@
 			<event start="Artur-J-Gvecg-P580002.t63.w7" end="Artur-J-Gvecg-P580002.t63.w8">na</event>
 			<event start="Artur-J-Gvecg-P580002.t63.w8" end="Artur-J-Gvecg-P580002.t63.w9">tem</event>
 			<event start="Artur-J-Gvecg-P580002.t63.w9" end="Artur-J-Gvecg-P580002.t64">nivoju</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w0" end="Artur-J-Gvecg-P580002.t64.w1">da</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w1" end="Artur-J-Gvecg-P580002.t64.w2">bi</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w2" end="Artur-J-Gvecg-P580002.t64.w3">lahko</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w3" end="Artur-J-Gvecg-P580002.t64.w4">rekli</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w4" end="Artur-J-Gvecg-P580002.t64.w5">da</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w5" end="Artur-J-Gvecg-P580002.t64.w6">lahko</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w6" end="Artur-J-Gvecg-P580002.t64.w7">vse</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w7" end="Artur-J-Gvecg-P580002.t64.w8">rešimo</event>
-			<event start="Artur-J-Gvecg-P580002.t64.w8" end="Artur-J-Gvecg-P580002.t64.w0">tako</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx0" end="Artur-J-Gvecg-P580002.t64.wx1">da</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx1" end="Artur-J-Gvecg-P580002.t64.wx2">bi</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx2" end="Artur-J-Gvecg-P580002.t64.wx3">lahko</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx3" end="Artur-J-Gvecg-P580002.t64.wx4">rekli</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx4" end="Artur-J-Gvecg-P580002.t64.wx5">da</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx5" end="Artur-J-Gvecg-P580002.t64.wx6">lahko</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx6" end="Artur-J-Gvecg-P580002.t64.wx7">vse</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx7" end="Artur-J-Gvecg-P580002.t64.wx8">rešimo</event>
+			<event start="Artur-J-Gvecg-P580002.t64.wx8" end="Artur-J-Gvecg-P580002.t65.w0">tako</event>
 		</tier>
 		<tier id="7" category="additional" speaker="Artur-J-G4529" type="t" display-name="Artur-J-G4529 [additional]"/>
 		<tier id="8" category="disfluencyType" speaker="Artur-J-G4529" type="a" display-name="Artur-J-G4529 [disfluencyType]"/>
